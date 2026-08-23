@@ -1,0 +1,721 @@
+{"item_id": "item-0003", "dimension": "truthfulness", "graders": ["careful", "sloppy"], "scores": [5, 1], "gap": 4, "reason": "4-point gap on a 5-point scale"}
+{"item_id": "item-0003", "dimension": "truthfulness", "graders": ["generous", "sloppy"], "scores": [5, 1], "gap": 4, "reason": "4-point gap on a 5-point scale"}
+{"item_id": "item-0005", "dimension": "presentation", "graders": ["generous", "sloppy"], "scores": [5, 1], "gap": 4, "reason": "4-point gap on a 5-point scale"}
+{"item_id": "item-0008", "dimension": "truthfulness", "graders": ["careful", "sloppy"], "scores": [5, 1], "gap": 4, "reason": "4-point gap on a 5-point scale"}
+{"item_id": "item-0008", "dimension": "truthfulness", "graders": ["generous", "sloppy"], "scores": [5, 1], "gap": 4, "reason": "4-point gap on a 5-point scale"}
+{"item_id": "item-0009", "dimension": "truthfulness", "graders": ["generous", "sloppy"], "scores": [5, 1], "gap": 4, "reason": "4-point gap on a 5-point scale"}
+{"item_id": "item-0023", "dimension": "instruction_following", "graders": ["anchor34", "sloppy"], "scores": [5, 1], "gap": 4, "reason": "4-point gap on a 5-point scale"}
+{"item_id": "item-0023", "dimension": "instruction_following", "graders": ["generous", "sloppy"], "scores": [5, 1], "gap": 4, "reason": "4-point gap on a 5-point scale"}
+{"item_id": "item-0032", "dimension": "truthfulness", "graders": ["anchor34", "sloppy"], "scores": [5, 1], "gap": 4, "reason": "4-point gap on a 5-point scale"}
+{"item_id": "item-0032", "dimension": "truthfulness", "graders": ["careful", "sloppy"], "scores": [5, 1], "gap": 4, "reason": "4-point gap on a 5-point scale"}
+{"item_id": "item-0032", "dimension": "truthfulness", "graders": ["generous", "sloppy"], "scores": [5, 1], "gap": 4, "reason": "4-point gap on a 5-point scale"}
+{"item_id": "item-0037", "dimension": "instruction_following", "graders": ["anchor34", "sloppy"], "scores": [5, 1], "gap": 4, "reason": "4-point gap on a 5-point scale"}
+{"item_id": "item-0037", "dimension": "instruction_following", "graders": ["generous", "sloppy"], "scores": [5, 1], "gap": 4, "reason": "4-point gap on a 5-point scale"}
+{"item_id": "item-0047", "dimension": "instruction_following", "graders": ["generous", "sloppy"], "scores": [5, 1], "gap": 4, "reason": "4-point gap on a 5-point scale"}
+{"item_id": "item-0048", "dimension": "presentation", "graders": ["careful", "sloppy"], "scores": [5, 1], "gap": 4, "reason": "4-point gap on a 5-point scale"}
+{"item_id": "item-0050", "dimension": "truthfulness", "graders": ["generous", "sloppy"], "scores": [5, 1], "gap": 4, "reason": "4-point gap on a 5-point scale"}
+{"item_id": "item-0052", "dimension": "instruction_following", "graders": ["anchor34", "sloppy"], "scores": [5, 1], "gap": 4, "reason": "4-point gap on a 5-point scale"}
+{"item_id": "item-0052", "dimension": "instruction_following", "graders": ["generous", "sloppy"], "scores": [5, 1], "gap": 4, "reason": "4-point gap on a 5-point scale"}
+{"item_id": "item-0055", "dimension": "truthfulness", "graders": ["generous", "sloppy"], "scores": [5, 1], "gap": 4, "reason": "4-point gap on a 5-point scale"}
+{"item_id": "item-0061", "dimension": "presentation", "graders": ["generous", "sloppy"], "scores": [5, 1], "gap": 4, "reason": "4-point gap on a 5-point scale"}
+{"item_id": "item-0066", "dimension": "truthfulness", "graders": ["anchor34", "sloppy"], "scores": [5, 1], "gap": 4, "reason": "4-point gap on a 5-point scale"}
+{"item_id": "item-0066", "dimension": "truthfulness", "graders": ["careful", "sloppy"], "scores": [5, 1], "gap": 4, "reason": "4-point gap on a 5-point scale"}
+{"item_id": "item-0066", "dimension": "truthfulness", "graders": ["generous", "sloppy"], "scores": [5, 1], "gap": 4, "reason": "4-point gap on a 5-point scale"}
+{"item_id": "item-0068", "dimension": "instruction_following", "graders": ["careful", "sloppy"], "scores": [5, 1], "gap": 4, "reason": "4-point gap on a 5-point scale"}
+{"item_id": "item-0068", "dimension": "instruction_following", "graders": ["generous", "sloppy"], "scores": [5, 1], "gap": 4, "reason": "4-point gap on a 5-point scale"}
+{"item_id": "item-0069", "dimension": "truthfulness", "graders": ["generous", "sloppy"], "scores": [5, 1], "gap": 4, "reason": "4-point gap on a 5-point scale"}
+{"item_id": "item-0074", "dimension": "truthfulness", "graders": ["generous", "sloppy"], "scores": [5, 1], "gap": 4, "reason": "4-point gap on a 5-point scale"}
+{"item_id": "item-0077", "dimension": "presentation", "graders": ["anchor34", "sloppy"], "scores": [5, 1], "gap": 4, "reason": "4-point gap on a 5-point scale"}
+{"item_id": "item-0077", "dimension": "presentation", "graders": ["careful", "sloppy"], "scores": [5, 1], "gap": 4, "reason": "4-point gap on a 5-point scale"}
+{"item_id": "item-0077", "dimension": "presentation", "graders": ["generous", "sloppy"], "scores": [5, 1], "gap": 4, "reason": "4-point gap on a 5-point scale"}
+{"item_id": "item-0080", "dimension": "overall_quality", "graders": ["careful", "sloppy"], "scores": [5, 1], "gap": 4, "reason": "4-point gap on a 5-point scale"}
+{"item_id": "item-0085", "dimension": "presentation", "graders": ["generous", "sloppy"], "scores": [5, 1], "gap": 4, "reason": "4-point gap on a 5-point scale"}
+{"item_id": "item-0085", "dimension": "overall_quality", "graders": ["careful", "sloppy"], "scores": [5, 1], "gap": 4, "reason": "4-point gap on a 5-point scale"}
+{"item_id": "item-0085", "dimension": "overall_quality", "graders": ["generous", "sloppy"], "scores": [5, 1], "gap": 4, "reason": "4-point gap on a 5-point scale"}
+{"item_id": "item-0086", "dimension": "overall_quality", "graders": ["generous", "sloppy"], "scores": [5, 1], "gap": 4, "reason": "4-point gap on a 5-point scale"}
+{"item_id": "item-0088", "dimension": "presentation", "graders": ["anchor34", "sloppy"], "scores": [1, 5], "gap": 4, "reason": "4-point gap on a 5-point scale"}
+{"item_id": "item-0088", "dimension": "presentation", "graders": ["careful", "sloppy"], "scores": [1, 5], "gap": 4, "reason": "4-point gap on a 5-point scale"}
+{"item_id": "item-0091", "dimension": "overall_quality", "graders": ["generous", "sloppy"], "scores": [5, 1], "gap": 4, "reason": "4-point gap on a 5-point scale"}
+{"item_id": "item-0094", "dimension": "instruction_following", "graders": ["anchor34", "sloppy"], "scores": [5, 1], "gap": 4, "reason": "4-point gap on a 5-point scale"}
+{"item_id": "item-0094", "dimension": "instruction_following", "graders": ["careful", "sloppy"], "scores": [5, 1], "gap": 4, "reason": "4-point gap on a 5-point scale"}
+{"item_id": "item-0094", "dimension": "instruction_following", "graders": ["generous", "sloppy"], "scores": [5, 1], "gap": 4, "reason": "4-point gap on a 5-point scale"}
+{"item_id": "item-0094", "dimension": "truthfulness", "graders": ["generous", "sloppy"], "scores": [5, 1], "gap": 4, "reason": "4-point gap on a 5-point scale"}
+{"item_id": "item-0095", "dimension": "presentation", "graders": ["generous", "sloppy"], "scores": [5, 1], "gap": 4, "reason": "4-point gap on a 5-point scale"}
+{"item_id": "item-0098", "dimension": "presentation", "graders": ["anchor34", "sloppy"], "scores": [5, 1], "gap": 4, "reason": "4-point gap on a 5-point scale"}
+{"item_id": "item-0098", "dimension": "presentation", "graders": ["generous", "sloppy"], "scores": [5, 1], "gap": 4, "reason": "4-point gap on a 5-point scale"}
+{"item_id": "item-0099", "dimension": "instruction_following", "graders": ["generous", "sloppy"], "scores": [5, 1], "gap": 4, "reason": "4-point gap on a 5-point scale"}
+{"item_id": "item-0099", "dimension": "presentation", "graders": ["anchor34", "sloppy"], "scores": [5, 1], "gap": 4, "reason": "4-point gap on a 5-point scale"}
+{"item_id": "item-0099", "dimension": "presentation", "graders": ["careful", "sloppy"], "scores": [5, 1], "gap": 4, "reason": "4-point gap on a 5-point scale"}
+{"item_id": "item-0099", "dimension": "presentation", "graders": ["generous", "sloppy"], "scores": [5, 1], "gap": 4, "reason": "4-point gap on a 5-point scale"}
+{"item_id": "item-0100", "dimension": "instruction_following", "graders": ["generous", "sloppy"], "scores": [5, 1], "gap": 4, "reason": "4-point gap on a 5-point scale"}
+{"item_id": "item-0101", "dimension": "truthfulness", "graders": ["anchor34", "sloppy"], "scores": [5, 1], "gap": 4, "reason": "4-point gap on a 5-point scale"}
+{"item_id": "item-0101", "dimension": "truthfulness", "graders": ["careful", "sloppy"], "scores": [5, 1], "gap": 4, "reason": "4-point gap on a 5-point scale"}
+{"item_id": "item-0101", "dimension": "truthfulness", "graders": ["generous", "sloppy"], "scores": [5, 1], "gap": 4, "reason": "4-point gap on a 5-point scale"}
+{"item_id": "item-0102", "dimension": "overall_quality", "graders": ["anchor34", "sloppy"], "scores": [5, 1], "gap": 4, "reason": "4-point gap on a 5-point scale"}
+{"item_id": "item-0102", "dimension": "overall_quality", "graders": ["careful", "sloppy"], "scores": [5, 1], "gap": 4, "reason": "4-point gap on a 5-point scale"}
+{"item_id": "item-0102", "dimension": "overall_quality", "graders": ["generous", "sloppy"], "scores": [5, 1], "gap": 4, "reason": "4-point gap on a 5-point scale"}
+{"item_id": "item-0109", "dimension": "presentation", "graders": ["anchor34", "sloppy"], "scores": [5, 1], "gap": 4, "reason": "4-point gap on a 5-point scale"}
+{"item_id": "item-0109", "dimension": "presentation", "graders": ["careful", "sloppy"], "scores": [5, 1], "gap": 4, "reason": "4-point gap on a 5-point scale"}
+{"item_id": "item-0109", "dimension": "presentation", "graders": ["generous", "sloppy"], "scores": [5, 1], "gap": 4, "reason": "4-point gap on a 5-point scale"}
+{"item_id": "item-0112", "dimension": "instruction_following", "graders": ["generous", "sloppy"], "scores": [5, 1], "gap": 4, "reason": "4-point gap on a 5-point scale"}
+{"item_id": "item-0112", "dimension": "overall_quality", "graders": ["careful", "sloppy"], "scores": [5, 1], "gap": 4, "reason": "4-point gap on a 5-point scale"}
+{"item_id": "item-0112", "dimension": "overall_quality", "graders": ["generous", "sloppy"], "scores": [5, 1], "gap": 4, "reason": "4-point gap on a 5-point scale"}
+{"item_id": "item-0115", "dimension": "overall_quality", "graders": ["generous", "sloppy"], "scores": [5, 1], "gap": 4, "reason": "4-point gap on a 5-point scale"}
+{"item_id": "item-0118", "dimension": "truthfulness", "graders": ["careful", "sloppy"], "scores": [5, 1], "gap": 4, "reason": "4-point gap on a 5-point scale"}
+{"item_id": "item-0118", "dimension": "truthfulness", "graders": ["generous", "sloppy"], "scores": [5, 1], "gap": 4, "reason": "4-point gap on a 5-point scale"}
+{"item_id": "item-0003", "dimension": "(gate)", "graders": ["generous", "sloppy"], "scores": [5, 2], "gap": 3, "reason": "gate disagreement: truthfulness=1 caps overall at 2"}
+{"item_id": "item-0005", "dimension": "presentation", "graders": ["careful", "sloppy"], "scores": [4, 1], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0006", "dimension": "overall_quality", "graders": ["generous", "sloppy"], "scores": [4, 1], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0008", "dimension": "overall_quality", "graders": ["generous", "sloppy"], "scores": [4, 1], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0009", "dimension": "instruction_following", "graders": ["careful", "sloppy"], "scores": [5, 2], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0009", "dimension": "instruction_following", "graders": ["generous", "sloppy"], "scores": [5, 2], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0009", "dimension": "truthfulness", "graders": ["careful", "sloppy"], "scores": [4, 1], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0011", "dimension": "truthfulness", "graders": ["generous", "sloppy"], "scores": [4, 1], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0011", "dimension": "(gate)", "graders": ["generous", "sloppy"], "scores": [5, 2], "gap": 3, "reason": "gate disagreement: truthfulness=1 caps overall at 2"}
+{"item_id": "item-0013", "dimension": "overall_quality", "graders": ["careful", "sloppy"], "scores": [2, 5], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0015", "dimension": "presentation", "graders": ["generous", "sloppy"], "scores": [4, 1], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0015", "dimension": "overall_quality", "graders": ["careful", "sloppy"], "scores": [4, 1], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0015", "dimension": "overall_quality", "graders": ["generous", "sloppy"], "scores": [4, 1], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0016", "dimension": "truthfulness", "graders": ["generous", "sloppy"], "scores": [4, 1], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0016", "dimension": "(gate)", "graders": ["generous", "sloppy"], "scores": [5, 2], "gap": 3, "reason": "gate disagreement: truthfulness=1 caps overall at 2"}
+{"item_id": "item-0017", "dimension": "instruction_following", "graders": ["generous", "sloppy"], "scores": [4, 1], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0017", "dimension": "overall_quality", "graders": ["careful", "sloppy"], "scores": [2, 5], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0017", "dimension": "(gate)", "graders": ["generous", "sloppy"], "scores": [5, 2], "gap": 3, "reason": "gate disagreement: instruction_following=1 caps overall at 2"}
+{"item_id": "item-0020", "dimension": "overall_quality", "graders": ["anchor34", "sloppy"], "scores": [2, 5], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0020", "dimension": "overall_quality", "graders": ["generous", "sloppy"], "scores": [2, 5], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0022", "dimension": "truthfulness", "graders": ["generous", "sloppy"], "scores": [5, 2], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0022", "dimension": "(gate)", "graders": ["generous", "sloppy"], "scores": [5, 2], "gap": 3, "reason": "gate disagreement: truthfulness=2 caps overall at 2"}
+{"item_id": "item-0023", "dimension": "instruction_following", "graders": ["careful", "sloppy"], "scores": [4, 1], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0024", "dimension": "overall_quality", "graders": ["generous", "sloppy"], "scores": [5, 2], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0024", "dimension": "(gate)", "graders": ["generous", "sloppy"], "scores": [5, 2], "gap": 3, "reason": "gate disagreement: truthfulness=2 caps overall at 2"}
+{"item_id": "item-0026", "dimension": "instruction_following", "graders": ["anchor34", "sloppy"], "scores": [5, 2], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0026", "dimension": "instruction_following", "graders": ["careful", "sloppy"], "scores": [5, 2], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0026", "dimension": "instruction_following", "graders": ["generous", "sloppy"], "scores": [5, 2], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0026", "dimension": "(gate)", "graders": ["generous", "sloppy"], "scores": [5, 2], "gap": 3, "reason": "gate disagreement: instruction_following=2 caps overall at 2"}
+{"item_id": "item-0027", "dimension": "instruction_following", "graders": ["careful", "sloppy"], "scores": [4, 1], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0027", "dimension": "instruction_following", "graders": ["generous", "sloppy"], "scores": [4, 1], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0029", "dimension": "instruction_following", "graders": ["generous", "sloppy"], "scores": [5, 2], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0035", "dimension": "presentation", "graders": ["generous", "sloppy"], "scores": [4, 1], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0035", "dimension": "overall_quality", "graders": ["careful", "generous"], "scores": [2, 5], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0037", "dimension": "instruction_following", "graders": ["careful", "sloppy"], "scores": [4, 1], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0038", "dimension": "overall_quality", "graders": ["generous", "sloppy"], "scores": [5, 2], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0039", "dimension": "instruction_following", "graders": ["anchor34", "sloppy"], "scores": [4, 1], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0039", "dimension": "instruction_following", "graders": ["generous", "sloppy"], "scores": [4, 1], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0042", "dimension": "instruction_following", "graders": ["careful", "sloppy"], "scores": [4, 1], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0042", "dimension": "instruction_following", "graders": ["generous", "sloppy"], "scores": [4, 1], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0042", "dimension": "truthfulness", "graders": ["anchor34", "sloppy"], "scores": [5, 2], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0042", "dimension": "truthfulness", "graders": ["careful", "sloppy"], "scores": [5, 2], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0042", "dimension": "truthfulness", "graders": ["generous", "sloppy"], "scores": [5, 2], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0045", "dimension": "instruction_following", "graders": ["anchor34", "sloppy"], "scores": [4, 1], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0045", "dimension": "instruction_following", "graders": ["careful", "sloppy"], "scores": [4, 1], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0045", "dimension": "instruction_following", "graders": ["generous", "sloppy"], "scores": [4, 1], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0047", "dimension": "instruction_following", "graders": ["careful", "sloppy"], "scores": [4, 1], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0048", "dimension": "presentation", "graders": ["anchor34", "sloppy"], "scores": [4, 1], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0048", "dimension": "presentation", "graders": ["generous", "sloppy"], "scores": [4, 1], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0049", "dimension": "truthfulness", "graders": ["anchor34", "sloppy"], "scores": [5, 2], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0049", "dimension": "truthfulness", "graders": ["careful", "sloppy"], "scores": [5, 2], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0049", "dimension": "truthfulness", "graders": ["generous", "sloppy"], "scores": [5, 2], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0050", "dimension": "truthfulness", "graders": ["anchor34", "sloppy"], "scores": [4, 1], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0050", "dimension": "truthfulness", "graders": ["careful", "sloppy"], "scores": [4, 1], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0052", "dimension": "instruction_following", "graders": ["careful", "sloppy"], "scores": [4, 1], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0055", "dimension": "instruction_following", "graders": ["careful", "sloppy"], "scores": [4, 1], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0055", "dimension": "instruction_following", "graders": ["generous", "sloppy"], "scores": [4, 1], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0055", "dimension": "truthfulness", "graders": ["careful", "generous"], "scores": [2, 5], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0055", "dimension": "(gate)", "graders": ["careful", "generous"], "scores": [2, 5], "gap": 3, "reason": "gate disagreement: truthfulness=2 caps overall at 2"}
+{"item_id": "item-0056", "dimension": "presentation", "graders": ["anchor34", "sloppy"], "scores": [2, 5], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0056", "dimension": "presentation", "graders": ["careful", "sloppy"], "scores": [2, 5], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0056", "dimension": "overall_quality", "graders": ["anchor34", "sloppy"], "scores": [2, 5], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0056", "dimension": "overall_quality", "graders": ["careful", "sloppy"], "scores": [2, 5], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0057", "dimension": "instruction_following", "graders": ["anchor34", "sloppy"], "scores": [2, 5], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0057", "dimension": "instruction_following", "graders": ["careful", "sloppy"], "scores": [2, 5], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0057", "dimension": "overall_quality", "graders": ["generous", "sloppy"], "scores": [4, 1], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0061", "dimension": "presentation", "graders": ["anchor34", "sloppy"], "scores": [4, 1], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0061", "dimension": "presentation", "graders": ["careful", "sloppy"], "scores": [4, 1], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0065", "dimension": "instruction_following", "graders": ["anchor34", "sloppy"], "scores": [2, 5], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0065", "dimension": "instruction_following", "graders": ["careful", "sloppy"], "scores": [2, 5], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0067", "dimension": "instruction_following", "graders": ["generous", "sloppy"], "scores": [5, 2], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0068", "dimension": "instruction_following", "graders": ["anchor34", "sloppy"], "scores": [4, 1], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0068", "dimension": "(gate)", "graders": ["anchor34", "sloppy"], "scores": [5, 2], "gap": 3, "reason": "gate disagreement: instruction_following=1 caps overall at 2"}
+{"item_id": "item-0068", "dimension": "(gate)", "graders": ["careful", "sloppy"], "scores": [5, 2], "gap": 3, "reason": "gate disagreement: instruction_following=1 caps overall at 2"}
+{"item_id": "item-0068", "dimension": "(gate)", "graders": ["generous", "sloppy"], "scores": [5, 2], "gap": 3, "reason": "gate disagreement: instruction_following=1 caps overall at 2"}
+{"item_id": "item-0069", "dimension": "truthfulness", "graders": ["anchor34", "sloppy"], "scores": [4, 1], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0069", "dimension": "truthfulness", "graders": ["careful", "sloppy"], "scores": [4, 1], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0072", "dimension": "instruction_following", "graders": ["anchor34", "sloppy"], "scores": [5, 2], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0072", "dimension": "instruction_following", "graders": ["careful", "sloppy"], "scores": [5, 2], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0072", "dimension": "instruction_following", "graders": ["generous", "sloppy"], "scores": [5, 2], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0073", "dimension": "instruction_following", "graders": ["careful", "sloppy"], "scores": [5, 2], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0074", "dimension": "truthfulness", "graders": ["anchor34", "sloppy"], "scores": [4, 1], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0074", "dimension": "truthfulness", "graders": ["careful", "sloppy"], "scores": [4, 1], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0074", "dimension": "(gate)", "graders": ["generous", "sloppy"], "scores": [5, 2], "gap": 3, "reason": "gate disagreement: truthfulness=1 caps overall at 2"}
+{"item_id": "item-0075", "dimension": "truthfulness", "graders": ["anchor34", "sloppy"], "scores": [4, 1], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0075", "dimension": "truthfulness", "graders": ["careful", "sloppy"], "scores": [4, 1], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0075", "dimension": "truthfulness", "graders": ["generous", "sloppy"], "scores": [4, 1], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0077", "dimension": "instruction_following", "graders": ["generous", "sloppy"], "scores": [5, 2], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0077", "dimension": "(gate)", "graders": ["generous", "sloppy"], "scores": [5, 2], "gap": 3, "reason": "gate disagreement: instruction_following=2 caps overall at 2"}
+{"item_id": "item-0078", "dimension": "presentation", "graders": ["anchor34", "sloppy"], "scores": [1, 4], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0078", "dimension": "presentation", "graders": ["careful", "sloppy"], "scores": [1, 4], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0080", "dimension": "overall_quality", "graders": ["anchor34", "sloppy"], "scores": [4, 1], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0080", "dimension": "overall_quality", "graders": ["generous", "sloppy"], "scores": [4, 1], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0081", "dimension": "presentation", "graders": ["anchor34", "sloppy"], "scores": [2, 5], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0081", "dimension": "presentation", "graders": ["careful", "sloppy"], "scores": [2, 5], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0083", "dimension": "instruction_following", "graders": ["anchor34", "sloppy"], "scores": [4, 1], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0083", "dimension": "instruction_following", "graders": ["careful", "sloppy"], "scores": [4, 1], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0083", "dimension": "instruction_following", "graders": ["generous", "sloppy"], "scores": [4, 1], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0084", "dimension": "presentation", "graders": ["anchor34", "sloppy"], "scores": [5, 2], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0084", "dimension": "presentation", "graders": ["careful", "sloppy"], "scores": [5, 2], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0084", "dimension": "presentation", "graders": ["generous", "sloppy"], "scores": [5, 2], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0085", "dimension": "presentation", "graders": ["anchor34", "sloppy"], "scores": [4, 1], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0085", "dimension": "presentation", "graders": ["careful", "sloppy"], "scores": [4, 1], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0085", "dimension": "overall_quality", "graders": ["anchor34", "sloppy"], "scores": [4, 1], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0086", "dimension": "instruction_following", "graders": ["careful", "sloppy"], "scores": [4, 1], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0086", "dimension": "instruction_following", "graders": ["generous", "sloppy"], "scores": [4, 1], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0086", "dimension": "presentation", "graders": ["generous", "sloppy"], "scores": [5, 2], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0086", "dimension": "overall_quality", "graders": ["anchor34", "generous"], "scores": [2, 5], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0086", "dimension": "overall_quality", "graders": ["careful", "generous"], "scores": [2, 5], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0088", "dimension": "instruction_following", "graders": ["anchor34", "sloppy"], "scores": [2, 5], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0088", "dimension": "instruction_following", "graders": ["careful", "sloppy"], "scores": [2, 5], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0088", "dimension": "instruction_following", "graders": ["generous", "sloppy"], "scores": [2, 5], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0089", "dimension": "truthfulness", "graders": ["anchor34", "generous"], "scores": [2, 5], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0091", "dimension": "truthfulness", "graders": ["generous", "sloppy"], "scores": [4, 1], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0093", "dimension": "instruction_following", "graders": ["generous", "sloppy"], "scores": [5, 2], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0093", "dimension": "(gate)", "graders": ["generous", "sloppy"], "scores": [5, 2], "gap": 3, "reason": "gate disagreement: instruction_following=2 caps overall at 2"}
+{"item_id": "item-0094", "dimension": "truthfulness", "graders": ["anchor34", "sloppy"], "scores": [4, 1], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0094", "dimension": "truthfulness", "graders": ["careful", "sloppy"], "scores": [4, 1], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0095", "dimension": "presentation", "graders": ["anchor34", "sloppy"], "scores": [4, 1], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0095", "dimension": "presentation", "graders": ["careful", "sloppy"], "scores": [4, 1], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0096", "dimension": "instruction_following", "graders": ["anchor34", "sloppy"], "scores": [4, 1], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0096", "dimension": "instruction_following", "graders": ["careful", "sloppy"], "scores": [4, 1], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0096", "dimension": "instruction_following", "graders": ["generous", "sloppy"], "scores": [4, 1], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0096", "dimension": "presentation", "graders": ["generous", "sloppy"], "scores": [4, 1], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0097", "dimension": "truthfulness", "graders": ["generous", "sloppy"], "scores": [5, 2], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0098", "dimension": "instruction_following", "graders": ["anchor34", "sloppy"], "scores": [2, 5], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0098", "dimension": "instruction_following", "graders": ["careful", "sloppy"], "scores": [2, 5], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0098", "dimension": "truthfulness", "graders": ["anchor34", "sloppy"], "scores": [2, 5], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0098", "dimension": "truthfulness", "graders": ["careful", "sloppy"], "scores": [2, 5], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0098", "dimension": "truthfulness", "graders": ["generous", "sloppy"], "scores": [2, 5], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0098", "dimension": "presentation", "graders": ["careful", "sloppy"], "scores": [4, 1], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0099", "dimension": "instruction_following", "graders": ["careful", "sloppy"], "scores": [4, 1], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0099", "dimension": "truthfulness", "graders": ["generous", "sloppy"], "scores": [5, 2], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0100", "dimension": "instruction_following", "graders": ["anchor34", "sloppy"], "scores": [4, 1], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0100", "dimension": "instruction_following", "graders": ["careful", "sloppy"], "scores": [4, 1], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0100", "dimension": "overall_quality", "graders": ["careful", "sloppy"], "scores": [2, 5], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0101", "dimension": "instruction_following", "graders": ["generous", "sloppy"], "scores": [5, 2], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0104", "dimension": "truthfulness", "graders": ["anchor34", "sloppy"], "scores": [2, 5], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0105", "dimension": "presentation", "graders": ["generous", "sloppy"], "scores": [5, 2], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0107", "dimension": "overall_quality", "graders": ["generous", "sloppy"], "scores": [5, 2], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0111", "dimension": "instruction_following", "graders": ["anchor34", "sloppy"], "scores": [1, 4], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0111", "dimension": "presentation", "graders": ["careful", "sloppy"], "scores": [1, 4], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0112", "dimension": "instruction_following", "graders": ["anchor34", "sloppy"], "scores": [4, 1], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0112", "dimension": "instruction_following", "graders": ["careful", "sloppy"], "scores": [4, 1], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0112", "dimension": "overall_quality", "graders": ["anchor34", "sloppy"], "scores": [4, 1], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0113", "dimension": "overall_quality", "graders": ["generous", "sloppy"], "scores": [5, 2], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0115", "dimension": "overall_quality", "graders": ["anchor34", "sloppy"], "scores": [4, 1], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0115", "dimension": "overall_quality", "graders": ["careful", "sloppy"], "scores": [4, 1], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0117", "dimension": "presentation", "graders": ["generous", "sloppy"], "scores": [5, 2], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0118", "dimension": "truthfulness", "graders": ["anchor34", "sloppy"], "scores": [4, 1], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0118", "dimension": "presentation", "graders": ["generous", "sloppy"], "scores": [5, 2], "gap": 3, "reason": "3-point gap on a 5-point scale"}
+{"item_id": "item-0118", "dimension": "(gate)", "graders": ["generous", "sloppy"], "scores": [5, 2], "gap": 3, "reason": "gate disagreement: truthfulness=1 caps overall at 2"}
+{"item_id": "item-0000", "dimension": "instruction_following", "graders": ["careful", "sloppy"], "scores": [5, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0000", "dimension": "instruction_following", "graders": ["generous", "sloppy"], "scores": [5, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0001", "dimension": "truthfulness", "graders": ["generous", "sloppy"], "scores": [5, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0002", "dimension": "truthfulness", "graders": ["generous", "sloppy"], "scores": [5, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0002", "dimension": "presentation", "graders": ["generous", "sloppy"], "scores": [3, 1], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0003", "dimension": "presentation", "graders": ["careful", "generous"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0003", "dimension": "(gate)", "graders": ["careful", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "gate disagreement: truthfulness=1 caps overall at 2"}
+{"item_id": "item-0004", "dimension": "instruction_following", "graders": ["careful", "generous"], "scores": [1, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0004", "dimension": "instruction_following", "graders": ["generous", "sloppy"], "scores": [3, 1], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0005", "dimension": "overall_quality", "graders": ["careful", "generous"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0005", "dimension": "overall_quality", "graders": ["careful", "sloppy"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0006", "dimension": "presentation", "graders": ["careful", "sloppy"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0006", "dimension": "overall_quality", "graders": ["careful", "sloppy"], "scores": [3, 1], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0007", "dimension": "instruction_following", "graders": ["careful", "sloppy"], "scores": [1, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0007", "dimension": "(gate)", "graders": ["careful", "sloppy"], "scores": [2, 4], "gap": 2, "reason": "gate disagreement: instruction_following=1 caps overall at 2"}
+{"item_id": "item-0007", "dimension": "(gate)", "graders": ["generous", "sloppy"], "scores": [2, 4], "gap": 2, "reason": "gate disagreement: instruction_following=2 caps overall at 2"}
+{"item_id": "item-0008", "dimension": "presentation", "graders": ["careful", "sloppy"], "scores": [3, 1], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0008", "dimension": "presentation", "graders": ["generous", "sloppy"], "scores": [3, 1], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0008", "dimension": "overall_quality", "graders": ["careful", "sloppy"], "scores": [3, 1], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0011", "dimension": "truthfulness", "graders": ["careful", "sloppy"], "scores": [3, 1], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0011", "dimension": "overall_quality", "graders": ["careful", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0011", "dimension": "overall_quality", "graders": ["generous", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0011", "dimension": "(gate)", "graders": ["careful", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "gate disagreement: truthfulness=1 caps overall at 2"}
+{"item_id": "item-0012", "dimension": "instruction_following", "graders": ["careful", "generous"], "scores": [2, 4], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0012", "dimension": "instruction_following", "graders": ["careful", "sloppy"], "scores": [2, 4], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0012", "dimension": "truthfulness", "graders": ["careful", "generous"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0013", "dimension": "overall_quality", "graders": ["generous", "sloppy"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0014", "dimension": "presentation", "graders": ["careful", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0014", "dimension": "overall_quality", "graders": ["generous", "sloppy"], "scores": [5, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0015", "dimension": "truthfulness", "graders": ["generous", "sloppy"], "scores": [3, 1], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0015", "dimension": "presentation", "graders": ["careful", "generous"], "scores": [2, 4], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0015", "dimension": "(gate)", "graders": ["careful", "generous"], "scores": [2, 4], "gap": 2, "reason": "gate disagreement: truthfulness=2 caps overall at 2"}
+{"item_id": "item-0016", "dimension": "truthfulness", "graders": ["careful", "sloppy"], "scores": [3, 1], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0016", "dimension": "(gate)", "graders": ["careful", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "gate disagreement: truthfulness=1 caps overall at 2"}
+{"item_id": "item-0017", "dimension": "instruction_following", "graders": ["careful", "sloppy"], "scores": [3, 1], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0017", "dimension": "overall_quality", "graders": ["generous", "sloppy"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0017", "dimension": "(gate)", "graders": ["careful", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "gate disagreement: instruction_following=1 caps overall at 2"}
+{"item_id": "item-0019", "dimension": "instruction_following", "graders": ["generous", "sloppy"], "scores": [5, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0020", "dimension": "truthfulness", "graders": ["generous", "sloppy"], "scores": [5, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0020", "dimension": "presentation", "graders": ["careful", "generous"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0020", "dimension": "overall_quality", "graders": ["careful", "sloppy"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0021", "dimension": "overall_quality", "graders": ["careful", "generous"], "scores": [2, 4], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0021", "dimension": "overall_quality", "graders": ["generous", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0022", "dimension": "truthfulness", "graders": ["anchor34", "generous"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0022", "dimension": "truthfulness", "graders": ["careful", "generous"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0022", "dimension": "presentation", "graders": ["anchor34", "sloppy"], "scores": [5, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0022", "dimension": "presentation", "graders": ["careful", "sloppy"], "scores": [5, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0022", "dimension": "presentation", "graders": ["generous", "sloppy"], "scores": [5, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0022", "dimension": "overall_quality", "graders": ["careful", "generous"], "scores": [2, 4], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0022", "dimension": "overall_quality", "graders": ["generous", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0022", "dimension": "(gate)", "graders": ["anchor34", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "gate disagreement: truthfulness=2 caps overall at 2"}
+{"item_id": "item-0022", "dimension": "(gate)", "graders": ["careful", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "gate disagreement: truthfulness=2 caps overall at 2"}
+{"item_id": "item-0023", "dimension": "presentation", "graders": ["careful", "generous"], "scores": [2, 4], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0023", "dimension": "presentation", "graders": ["careful", "sloppy"], "scores": [2, 4], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0024", "dimension": "truthfulness", "graders": ["careful", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0024", "dimension": "truthfulness", "graders": ["generous", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0024", "dimension": "presentation", "graders": ["careful", "generous"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0024", "dimension": "overall_quality", "graders": ["anchor34", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0024", "dimension": "overall_quality", "graders": ["careful", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0024", "dimension": "(gate)", "graders": ["anchor34", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "gate disagreement: truthfulness=2 caps overall at 2"}
+{"item_id": "item-0024", "dimension": "(gate)", "graders": ["careful", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "gate disagreement: truthfulness=2 caps overall at 2"}
+{"item_id": "item-0026", "dimension": "truthfulness", "graders": ["anchor34", "generous"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0026", "dimension": "truthfulness", "graders": ["anchor34", "sloppy"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0026", "dimension": "truthfulness", "graders": ["careful", "generous"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0026", "dimension": "truthfulness", "graders": ["careful", "sloppy"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0026", "dimension": "(gate)", "graders": ["anchor34", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "gate disagreement: instruction_following=2 caps overall at 2"}
+{"item_id": "item-0026", "dimension": "(gate)", "graders": ["careful", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "gate disagreement: instruction_following=2 caps overall at 2"}
+{"item_id": "item-0027", "dimension": "instruction_following", "graders": ["anchor34", "sloppy"], "scores": [3, 1], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0027", "dimension": "presentation", "graders": ["anchor34", "sloppy"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0027", "dimension": "presentation", "graders": ["careful", "sloppy"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0027", "dimension": "(gate)", "graders": ["anchor34", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "gate disagreement: instruction_following=1 caps overall at 2"}
+{"item_id": "item-0027", "dimension": "(gate)", "graders": ["careful", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "gate disagreement: instruction_following=1 caps overall at 2"}
+{"item_id": "item-0027", "dimension": "(gate)", "graders": ["generous", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "gate disagreement: instruction_following=1 caps overall at 2"}
+{"item_id": "item-0028", "dimension": "truthfulness", "graders": ["anchor34", "generous"], "scores": [1, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0028", "dimension": "truthfulness", "graders": ["careful", "generous"], "scores": [1, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0028", "dimension": "overall_quality", "graders": ["careful", "generous"], "scores": [2, 4], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0028", "dimension": "overall_quality", "graders": ["generous", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0028", "dimension": "(gate)", "graders": ["anchor34", "generous"], "scores": [2, 4], "gap": 2, "reason": "gate disagreement: truthfulness=1 caps overall at 2"}
+{"item_id": "item-0028", "dimension": "(gate)", "graders": ["careful", "generous"], "scores": [2, 4], "gap": 2, "reason": "gate disagreement: truthfulness=1 caps overall at 2"}
+{"item_id": "item-0028", "dimension": "(gate)", "graders": ["generous", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "gate disagreement: truthfulness=2 caps overall at 2"}
+{"item_id": "item-0029", "dimension": "instruction_following", "graders": ["anchor34", "generous"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0029", "dimension": "instruction_following", "graders": ["careful", "generous"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0030", "dimension": "instruction_following", "graders": ["anchor34", "careful"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0030", "dimension": "instruction_following", "graders": ["careful", "sloppy"], "scores": [5, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0030", "dimension": "overall_quality", "graders": ["anchor34", "sloppy"], "scores": [5, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0030", "dimension": "overall_quality", "graders": ["careful", "sloppy"], "scores": [5, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0030", "dimension": "overall_quality", "graders": ["generous", "sloppy"], "scores": [5, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0034", "dimension": "instruction_following", "graders": ["anchor34", "generous"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0034", "dimension": "instruction_following", "graders": ["anchor34", "sloppy"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0035", "dimension": "instruction_following", "graders": ["careful", "generous"], "scores": [2, 4], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0035", "dimension": "instruction_following", "graders": ["generous", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0035", "dimension": "presentation", "graders": ["anchor34", "sloppy"], "scores": [3, 1], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0035", "dimension": "presentation", "graders": ["careful", "sloppy"], "scores": [3, 1], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0035", "dimension": "overall_quality", "graders": ["anchor34", "generous"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0035", "dimension": "overall_quality", "graders": ["generous", "sloppy"], "scores": [5, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0035", "dimension": "(gate)", "graders": ["careful", "generous"], "scores": [2, 4], "gap": 2, "reason": "gate disagreement: instruction_following=2 caps overall at 2"}
+{"item_id": "item-0036", "dimension": "truthfulness", "graders": ["anchor34", "sloppy"], "scores": [1, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0036", "dimension": "truthfulness", "graders": ["careful", "sloppy"], "scores": [1, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0036", "dimension": "overall_quality", "graders": ["careful", "sloppy"], "scores": [2, 4], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0037", "dimension": "presentation", "graders": ["anchor34", "sloppy"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0037", "dimension": "presentation", "graders": ["careful", "sloppy"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0038", "dimension": "instruction_following", "graders": ["anchor34", "careful"], "scores": [4, 2], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0038", "dimension": "instruction_following", "graders": ["anchor34", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0038", "dimension": "instruction_following", "graders": ["careful", "generous"], "scores": [2, 4], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0038", "dimension": "instruction_following", "graders": ["generous", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0038", "dimension": "presentation", "graders": ["anchor34", "sloppy"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0038", "dimension": "presentation", "graders": ["careful", "sloppy"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0038", "dimension": "presentation", "graders": ["generous", "sloppy"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0038", "dimension": "overall_quality", "graders": ["anchor34", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0038", "dimension": "overall_quality", "graders": ["careful", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0038", "dimension": "(gate)", "graders": ["anchor34", "careful"], "scores": [4, 2], "gap": 2, "reason": "gate disagreement: instruction_following=2 caps overall at 2"}
+{"item_id": "item-0038", "dimension": "(gate)", "graders": ["anchor34", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "gate disagreement: instruction_following=2 caps overall at 2"}
+{"item_id": "item-0038", "dimension": "(gate)", "graders": ["careful", "generous"], "scores": [2, 4], "gap": 2, "reason": "gate disagreement: instruction_following=2 caps overall at 2"}
+{"item_id": "item-0038", "dimension": "(gate)", "graders": ["generous", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "gate disagreement: instruction_following=2 caps overall at 2"}
+{"item_id": "item-0039", "dimension": "instruction_following", "graders": ["careful", "sloppy"], "scores": [3, 1], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0039", "dimension": "truthfulness", "graders": ["generous", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0039", "dimension": "presentation", "graders": ["generous", "sloppy"], "scores": [5, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0040", "dimension": "instruction_following", "graders": ["anchor34", "generous"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0041", "dimension": "presentation", "graders": ["careful", "sloppy"], "scores": [3, 1], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0041", "dimension": "presentation", "graders": ["generous", "sloppy"], "scores": [3, 1], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0042", "dimension": "instruction_following", "graders": ["anchor34", "sloppy"], "scores": [3, 1], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0043", "dimension": "presentation", "graders": ["anchor34", "generous"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0043", "dimension": "presentation", "graders": ["careful", "generous"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0043", "dimension": "presentation", "graders": ["generous", "sloppy"], "scores": [5, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0044", "dimension": "truthfulness", "graders": ["anchor34", "sloppy"], "scores": [5, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0044", "dimension": "truthfulness", "graders": ["generous", "sloppy"], "scores": [5, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0045", "dimension": "truthfulness", "graders": ["anchor34", "generous"], "scores": [2, 4], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0045", "dimension": "truthfulness", "graders": ["careful", "generous"], "scores": [2, 4], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0045", "dimension": "truthfulness", "graders": ["generous", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0045", "dimension": "presentation", "graders": ["anchor34", "sloppy"], "scores": [1, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0045", "dimension": "presentation", "graders": ["careful", "sloppy"], "scores": [1, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0045", "dimension": "presentation", "graders": ["generous", "sloppy"], "scores": [1, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0046", "dimension": "truthfulness", "graders": ["generous", "sloppy"], "scores": [5, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0046", "dimension": "presentation", "graders": ["anchor34", "careful"], "scores": [1, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0046", "dimension": "presentation", "graders": ["anchor34", "generous"], "scores": [1, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0046", "dimension": "presentation", "graders": ["careful", "sloppy"], "scores": [3, 1], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0046", "dimension": "presentation", "graders": ["generous", "sloppy"], "scores": [3, 1], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0046", "dimension": "overall_quality", "graders": ["anchor34", "sloppy"], "scores": [3, 1], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0046", "dimension": "overall_quality", "graders": ["careful", "sloppy"], "scores": [3, 1], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0046", "dimension": "overall_quality", "graders": ["generous", "sloppy"], "scores": [3, 1], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0047", "dimension": "instruction_following", "graders": ["anchor34", "generous"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0047", "dimension": "instruction_following", "graders": ["anchor34", "sloppy"], "scores": [3, 1], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0047", "dimension": "truthfulness", "graders": ["careful", "sloppy"], "scores": [5, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0047", "dimension": "truthfulness", "graders": ["generous", "sloppy"], "scores": [5, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0047", "dimension": "overall_quality", "graders": ["careful", "generous"], "scores": [2, 4], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0048", "dimension": "instruction_following", "graders": ["anchor34", "sloppy"], "scores": [1, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0048", "dimension": "instruction_following", "graders": ["generous", "sloppy"], "scores": [1, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0049", "dimension": "instruction_following", "graders": ["anchor34", "generous"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0049", "dimension": "instruction_following", "graders": ["generous", "sloppy"], "scores": [5, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0049", "dimension": "presentation", "graders": ["anchor34", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0049", "dimension": "presentation", "graders": ["careful", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0049", "dimension": "presentation", "graders": ["generous", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0050", "dimension": "(gate)", "graders": ["anchor34", "generous"], "scores": [2, 4], "gap": 2, "reason": "gate disagreement: instruction_following=2 caps overall at 2"}
+{"item_id": "item-0050", "dimension": "(gate)", "graders": ["careful", "generous"], "scores": [2, 4], "gap": 2, "reason": "gate disagreement: instruction_following=2 caps overall at 2"}
+{"item_id": "item-0050", "dimension": "(gate)", "graders": ["generous", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "gate disagreement: truthfulness=1 caps overall at 2"}
+{"item_id": "item-0051", "dimension": "instruction_following", "graders": ["anchor34", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0051", "dimension": "instruction_following", "graders": ["generous", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0051", "dimension": "presentation", "graders": ["careful", "generous"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0051", "dimension": "presentation", "graders": ["careful", "sloppy"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0051", "dimension": "overall_quality", "graders": ["careful", "generous"], "scores": [2, 4], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0052", "dimension": "presentation", "graders": ["careful", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0052", "dimension": "presentation", "graders": ["generous", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0052", "dimension": "(gate)", "graders": ["anchor34", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "gate disagreement: instruction_following=1 caps overall at 2"}
+{"item_id": "item-0052", "dimension": "(gate)", "graders": ["careful", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "gate disagreement: instruction_following=1 caps overall at 2"}
+{"item_id": "item-0052", "dimension": "(gate)", "graders": ["generous", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "gate disagreement: instruction_following=1 caps overall at 2"}
+{"item_id": "item-0053", "dimension": "truthfulness", "graders": ["anchor34", "generous"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0053", "dimension": "truthfulness", "graders": ["careful", "generous"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0053", "dimension": "truthfulness", "graders": ["generous", "sloppy"], "scores": [5, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0053", "dimension": "presentation", "graders": ["careful", "sloppy"], "scores": [5, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0053", "dimension": "presentation", "graders": ["generous", "sloppy"], "scores": [5, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0054", "dimension": "presentation", "graders": ["generous", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0055", "dimension": "instruction_following", "graders": ["anchor34", "sloppy"], "scores": [3, 1], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0055", "dimension": "truthfulness", "graders": ["anchor34", "generous"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0055", "dimension": "truthfulness", "graders": ["anchor34", "sloppy"], "scores": [3, 1], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0055", "dimension": "overall_quality", "graders": ["anchor34", "sloppy"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0055", "dimension": "overall_quality", "graders": ["careful", "sloppy"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0055", "dimension": "(gate)", "graders": ["anchor34", "careful"], "scores": [4, 2], "gap": 2, "reason": "gate disagreement: truthfulness=2 caps overall at 2"}
+{"item_id": "item-0056", "dimension": "truthfulness", "graders": ["anchor34", "generous"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0056", "dimension": "truthfulness", "graders": ["generous", "sloppy"], "scores": [5, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0056", "dimension": "presentation", "graders": ["generous", "sloppy"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0056", "dimension": "overall_quality", "graders": ["generous", "sloppy"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0057", "dimension": "instruction_following", "graders": ["generous", "sloppy"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0057", "dimension": "overall_quality", "graders": ["anchor34", "sloppy"], "scores": [3, 1], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0057", "dimension": "overall_quality", "graders": ["careful", "sloppy"], "scores": [3, 1], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0057", "dimension": "(gate)", "graders": ["anchor34", "generous"], "scores": [2, 4], "gap": 2, "reason": "gate disagreement: instruction_following=2 caps overall at 2"}
+{"item_id": "item-0057", "dimension": "(gate)", "graders": ["anchor34", "sloppy"], "scores": [2, 4], "gap": 2, "reason": "gate disagreement: instruction_following=2 caps overall at 2"}
+{"item_id": "item-0057", "dimension": "(gate)", "graders": ["careful", "generous"], "scores": [2, 4], "gap": 2, "reason": "gate disagreement: instruction_following=2 caps overall at 2"}
+{"item_id": "item-0057", "dimension": "(gate)", "graders": ["careful", "sloppy"], "scores": [2, 4], "gap": 2, "reason": "gate disagreement: instruction_following=2 caps overall at 2"}
+{"item_id": "item-0058", "dimension": "presentation", "graders": ["careful", "generous"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0058", "dimension": "presentation", "graders": ["generous", "sloppy"], "scores": [5, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0058", "dimension": "overall_quality", "graders": ["anchor34", "generous"], "scores": [2, 4], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0058", "dimension": "overall_quality", "graders": ["careful", "generous"], "scores": [2, 4], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0058", "dimension": "overall_quality", "graders": ["generous", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0058", "dimension": "(gate)", "graders": ["anchor34", "generous"], "scores": [2, 4], "gap": 2, "reason": "gate disagreement: truthfulness=2 caps overall at 2"}
+{"item_id": "item-0058", "dimension": "(gate)", "graders": ["careful", "generous"], "scores": [2, 4], "gap": 2, "reason": "gate disagreement: truthfulness=2 caps overall at 2"}
+{"item_id": "item-0058", "dimension": "(gate)", "graders": ["generous", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "gate disagreement: truthfulness=2 caps overall at 2"}
+{"item_id": "item-0059", "dimension": "overall_quality", "graders": ["anchor34", "sloppy"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0059", "dimension": "overall_quality", "graders": ["careful", "sloppy"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0060", "dimension": "instruction_following", "graders": ["anchor34", "careful"], "scores": [4, 2], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0060", "dimension": "instruction_following", "graders": ["anchor34", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0060", "dimension": "overall_quality", "graders": ["anchor34", "generous"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0060", "dimension": "overall_quality", "graders": ["generous", "sloppy"], "scores": [5, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0060", "dimension": "(gate)", "graders": ["anchor34", "careful"], "scores": [4, 2], "gap": 2, "reason": "gate disagreement: instruction_following=2 caps overall at 2"}
+{"item_id": "item-0060", "dimension": "(gate)", "graders": ["anchor34", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "gate disagreement: instruction_following=2 caps overall at 2"}
+{"item_id": "item-0060", "dimension": "(gate)", "graders": ["careful", "generous"], "scores": [2, 4], "gap": 2, "reason": "gate disagreement: instruction_following=2 caps overall at 2"}
+{"item_id": "item-0060", "dimension": "(gate)", "graders": ["generous", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "gate disagreement: instruction_following=2 caps overall at 2"}
+{"item_id": "item-0062", "dimension": "instruction_following", "graders": ["careful", "sloppy"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0062", "dimension": "overall_quality", "graders": ["anchor34", "generous"], "scores": [2, 4], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0063", "dimension": "truthfulness", "graders": ["anchor34", "sloppy"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0063", "dimension": "truthfulness", "graders": ["careful", "sloppy"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0064", "dimension": "presentation", "graders": ["anchor34", "sloppy"], "scores": [2, 4], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0065", "dimension": "instruction_following", "graders": ["generous", "sloppy"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0065", "dimension": "(gate)", "graders": ["anchor34", "sloppy"], "scores": [2, 4], "gap": 2, "reason": "gate disagreement: instruction_following=2 caps overall at 2"}
+{"item_id": "item-0066", "dimension": "instruction_following", "graders": ["generous", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0067", "dimension": "instruction_following", "graders": ["anchor34", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0067", "dimension": "instruction_following", "graders": ["careful", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0067", "dimension": "(gate)", "graders": ["anchor34", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "gate disagreement: instruction_following=2 caps overall at 2"}
+{"item_id": "item-0067", "dimension": "(gate)", "graders": ["careful", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "gate disagreement: instruction_following=2 caps overall at 2"}
+{"item_id": "item-0067", "dimension": "(gate)", "graders": ["generous", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "gate disagreement: instruction_following=2 caps overall at 2"}
+{"item_id": "item-0069", "dimension": "instruction_following", "graders": ["generous", "sloppy"], "scores": [3, 1], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0069", "dimension": "overall_quality", "graders": ["careful", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0069", "dimension": "overall_quality", "graders": ["generous", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0069", "dimension": "(gate)", "graders": ["anchor34", "generous"], "scores": [2, 4], "gap": 2, "reason": "gate disagreement: instruction_following=2 caps overall at 2"}
+{"item_id": "item-0069", "dimension": "(gate)", "graders": ["careful", "generous"], "scores": [2, 4], "gap": 2, "reason": "gate disagreement: instruction_following=2 caps overall at 2"}
+{"item_id": "item-0070", "dimension": "instruction_following", "graders": ["anchor34", "sloppy"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0070", "dimension": "presentation", "graders": ["careful", "generous"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0071", "dimension": "instruction_following", "graders": ["anchor34", "sloppy"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0071", "dimension": "instruction_following", "graders": ["careful", "sloppy"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0071", "dimension": "instruction_following", "graders": ["generous", "sloppy"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0072", "dimension": "(gate)", "graders": ["anchor34", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "gate disagreement: instruction_following=2 caps overall at 2"}
+{"item_id": "item-0072", "dimension": "(gate)", "graders": ["careful", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "gate disagreement: instruction_following=2 caps overall at 2"}
+{"item_id": "item-0072", "dimension": "(gate)", "graders": ["generous", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "gate disagreement: instruction_following=2 caps overall at 2"}
+{"item_id": "item-0073", "dimension": "instruction_following", "graders": ["anchor34", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0073", "dimension": "instruction_following", "graders": ["generous", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0073", "dimension": "overall_quality", "graders": ["anchor34", "generous"], "scores": [1, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0073", "dimension": "(gate)", "graders": ["careful", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "gate disagreement: instruction_following=2 caps overall at 2"}
+{"item_id": "item-0073", "dimension": "(gate)", "graders": ["generous", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "gate disagreement: instruction_following=2 caps overall at 2"}
+{"item_id": "item-0074", "dimension": "instruction_following", "graders": ["anchor34", "generous"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0074", "dimension": "presentation", "graders": ["careful", "sloppy"], "scores": [5, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0074", "dimension": "presentation", "graders": ["generous", "sloppy"], "scores": [5, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0074", "dimension": "(gate)", "graders": ["anchor34", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "gate disagreement: truthfulness=1 caps overall at 2"}
+{"item_id": "item-0074", "dimension": "(gate)", "graders": ["careful", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "gate disagreement: truthfulness=1 caps overall at 2"}
+{"item_id": "item-0075", "dimension": "presentation", "graders": ["generous", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0075", "dimension": "(gate)", "graders": ["anchor34", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "gate disagreement: truthfulness=1 caps overall at 2"}
+{"item_id": "item-0075", "dimension": "(gate)", "graders": ["careful", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "gate disagreement: truthfulness=1 caps overall at 2"}
+{"item_id": "item-0075", "dimension": "(gate)", "graders": ["generous", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "gate disagreement: truthfulness=1 caps overall at 2"}
+{"item_id": "item-0076", "dimension": "instruction_following", "graders": ["generous", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0076", "dimension": "overall_quality", "graders": ["careful", "generous"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0076", "dimension": "overall_quality", "graders": ["careful", "sloppy"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0077", "dimension": "instruction_following", "graders": ["anchor34", "generous"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0077", "dimension": "instruction_following", "graders": ["careful", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0077", "dimension": "truthfulness", "graders": ["anchor34", "sloppy"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0077", "dimension": "truthfulness", "graders": ["careful", "sloppy"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0077", "dimension": "(gate)", "graders": ["anchor34", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "gate disagreement: instruction_following=2 caps overall at 2"}
+{"item_id": "item-0077", "dimension": "(gate)", "graders": ["careful", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "gate disagreement: instruction_following=2 caps overall at 2"}
+{"item_id": "item-0078", "dimension": "instruction_following", "graders": ["anchor34", "sloppy"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0078", "dimension": "instruction_following", "graders": ["careful", "sloppy"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0078", "dimension": "presentation", "graders": ["generous", "sloppy"], "scores": [2, 4], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0079", "dimension": "truthfulness", "graders": ["anchor34", "sloppy"], "scores": [5, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0079", "dimension": "truthfulness", "graders": ["careful", "sloppy"], "scores": [5, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0079", "dimension": "truthfulness", "graders": ["generous", "sloppy"], "scores": [5, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0079", "dimension": "overall_quality", "graders": ["anchor34", "sloppy"], "scores": [2, 4], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0079", "dimension": "overall_quality", "graders": ["careful", "sloppy"], "scores": [2, 4], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0079", "dimension": "overall_quality", "graders": ["generous", "sloppy"], "scores": [2, 4], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0080", "dimension": "instruction_following", "graders": ["anchor34", "sloppy"], "scores": [5, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0080", "dimension": "instruction_following", "graders": ["careful", "sloppy"], "scores": [5, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0080", "dimension": "instruction_following", "graders": ["generous", "sloppy"], "scores": [5, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0080", "dimension": "presentation", "graders": ["careful", "generous"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0081", "dimension": "presentation", "graders": ["anchor34", "generous"], "scores": [2, 4], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0081", "dimension": "presentation", "graders": ["careful", "generous"], "scores": [2, 4], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0082", "dimension": "presentation", "graders": ["careful", "generous"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0082", "dimension": "presentation", "graders": ["generous", "sloppy"], "scores": [5, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0082", "dimension": "overall_quality", "graders": ["anchor34", "sloppy"], "scores": [1, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0082", "dimension": "overall_quality", "graders": ["careful", "sloppy"], "scores": [1, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0082", "dimension": "(gate)", "graders": ["anchor34", "careful"], "scores": [4, 2], "gap": 2, "reason": "gate disagreement: truthfulness=2 caps overall at 2"}
+{"item_id": "item-0082", "dimension": "(gate)", "graders": ["anchor34", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "gate disagreement: truthfulness=2 caps overall at 2"}
+{"item_id": "item-0082", "dimension": "(gate)", "graders": ["careful", "generous"], "scores": [2, 4], "gap": 2, "reason": "gate disagreement: truthfulness=2 caps overall at 2"}
+{"item_id": "item-0082", "dimension": "(gate)", "graders": ["generous", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "gate disagreement: truthfulness=2 caps overall at 2"}
+{"item_id": "item-0083", "dimension": "overall_quality", "graders": ["anchor34", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0083", "dimension": "overall_quality", "graders": ["careful", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0083", "dimension": "overall_quality", "graders": ["generous", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0083", "dimension": "(gate)", "graders": ["anchor34", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "gate disagreement: instruction_following=1 caps overall at 2"}
+{"item_id": "item-0083", "dimension": "(gate)", "graders": ["careful", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "gate disagreement: instruction_following=1 caps overall at 2"}
+{"item_id": "item-0083", "dimension": "(gate)", "graders": ["generous", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "gate disagreement: instruction_following=1 caps overall at 2"}
+{"item_id": "item-0084", "dimension": "truthfulness", "graders": ["careful", "sloppy"], "scores": [5, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0084", "dimension": "truthfulness", "graders": ["generous", "sloppy"], "scores": [5, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0086", "dimension": "instruction_following", "graders": ["anchor34", "sloppy"], "scores": [3, 1], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0086", "dimension": "truthfulness", "graders": ["anchor34", "sloppy"], "scores": [5, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0086", "dimension": "truthfulness", "graders": ["careful", "sloppy"], "scores": [5, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0086", "dimension": "truthfulness", "graders": ["generous", "sloppy"], "scores": [5, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0086", "dimension": "presentation", "graders": ["anchor34", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0086", "dimension": "presentation", "graders": ["careful", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0087", "dimension": "instruction_following", "graders": ["anchor34", "careful"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0087", "dimension": "instruction_following", "graders": ["anchor34", "generous"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0088", "dimension": "truthfulness", "graders": ["anchor34", "generous"], "scores": [1, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0088", "dimension": "truthfulness", "graders": ["careful", "generous"], "scores": [1, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0088", "dimension": "truthfulness", "graders": ["generous", "sloppy"], "scores": [3, 1], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0088", "dimension": "presentation", "graders": ["anchor34", "generous"], "scores": [1, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0088", "dimension": "presentation", "graders": ["careful", "generous"], "scores": [1, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0088", "dimension": "presentation", "graders": ["generous", "sloppy"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0088", "dimension": "overall_quality", "graders": ["careful", "sloppy"], "scores": [5, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0088", "dimension": "overall_quality", "graders": ["generous", "sloppy"], "scores": [5, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0089", "dimension": "truthfulness", "graders": ["anchor34", "sloppy"], "scores": [2, 4], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0089", "dimension": "truthfulness", "graders": ["careful", "generous"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0089", "dimension": "presentation", "graders": ["careful", "generous"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0089", "dimension": "overall_quality", "graders": ["anchor34", "sloppy"], "scores": [3, 1], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0089", "dimension": "overall_quality", "graders": ["careful", "sloppy"], "scores": [3, 1], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0089", "dimension": "overall_quality", "graders": ["generous", "sloppy"], "scores": [3, 1], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0089", "dimension": "(gate)", "graders": ["careful", "generous"], "scores": [2, 4], "gap": 2, "reason": "gate disagreement: instruction_following=2 caps overall at 2"}
+{"item_id": "item-0089", "dimension": "(gate)", "graders": ["generous", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "gate disagreement: instruction_following=2 caps overall at 2"}
+{"item_id": "item-0090", "dimension": "truthfulness", "graders": ["anchor34", "sloppy"], "scores": [1, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0090", "dimension": "truthfulness", "graders": ["careful", "sloppy"], "scores": [1, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0090", "dimension": "overall_quality", "graders": ["anchor34", "sloppy"], "scores": [3, 1], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0090", "dimension": "overall_quality", "graders": ["careful", "sloppy"], "scores": [3, 1], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0090", "dimension": "overall_quality", "graders": ["generous", "sloppy"], "scores": [3, 1], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0091", "dimension": "truthfulness", "graders": ["anchor34", "sloppy"], "scores": [3, 1], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0091", "dimension": "truthfulness", "graders": ["careful", "sloppy"], "scores": [3, 1], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0091", "dimension": "overall_quality", "graders": ["anchor34", "generous"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0091", "dimension": "overall_quality", "graders": ["anchor34", "sloppy"], "scores": [3, 1], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0091", "dimension": "overall_quality", "graders": ["careful", "generous"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0091", "dimension": "overall_quality", "graders": ["careful", "sloppy"], "scores": [3, 1], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0092", "dimension": "instruction_following", "graders": ["anchor34", "generous"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0092", "dimension": "instruction_following", "graders": ["careful", "generous"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0092", "dimension": "instruction_following", "graders": ["generous", "sloppy"], "scores": [5, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0092", "dimension": "presentation", "graders": ["anchor34", "careful"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0092", "dimension": "presentation", "graders": ["anchor34", "generous"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0092", "dimension": "presentation", "graders": ["anchor34", "sloppy"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0092", "dimension": "(gate)", "graders": ["careful", "generous"], "scores": [2, 4], "gap": 2, "reason": "gate disagreement: truthfulness=2 caps overall at 2"}
+{"item_id": "item-0092", "dimension": "(gate)", "graders": ["careful", "sloppy"], "scores": [2, 4], "gap": 2, "reason": "gate disagreement: truthfulness=2 caps overall at 2"}
+{"item_id": "item-0093", "dimension": "instruction_following", "graders": ["anchor34", "generous"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0093", "dimension": "instruction_following", "graders": ["careful", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0093", "dimension": "(gate)", "graders": ["anchor34", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "gate disagreement: instruction_following=2 caps overall at 2"}
+{"item_id": "item-0093", "dimension": "(gate)", "graders": ["careful", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "gate disagreement: instruction_following=2 caps overall at 2"}
+{"item_id": "item-0095", "dimension": "instruction_following", "graders": ["anchor34", "generous"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0095", "dimension": "instruction_following", "graders": ["anchor34", "sloppy"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0096", "dimension": "truthfulness", "graders": ["anchor34", "sloppy"], "scores": [1, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0096", "dimension": "truthfulness", "graders": ["careful", "sloppy"], "scores": [1, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0096", "dimension": "truthfulness", "graders": ["generous", "sloppy"], "scores": [1, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0096", "dimension": "presentation", "graders": ["anchor34", "sloppy"], "scores": [3, 1], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0096", "dimension": "presentation", "graders": ["careful", "sloppy"], "scores": [3, 1], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0097", "dimension": "truthfulness", "graders": ["anchor34", "generous"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0097", "dimension": "truthfulness", "graders": ["careful", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0097", "dimension": "overall_quality", "graders": ["careful", "sloppy"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0098", "dimension": "instruction_following", "graders": ["generous", "sloppy"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0098", "dimension": "(gate)", "graders": ["anchor34", "sloppy"], "scores": [2, 4], "gap": 2, "reason": "gate disagreement: instruction_following=2 caps overall at 2"}
+{"item_id": "item-0098", "dimension": "(gate)", "graders": ["generous", "sloppy"], "scores": [2, 4], "gap": 2, "reason": "gate disagreement: truthfulness=2 caps overall at 2"}
+{"item_id": "item-0099", "dimension": "instruction_following", "graders": ["anchor34", "generous"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0099", "dimension": "instruction_following", "graders": ["anchor34", "sloppy"], "scores": [3, 1], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0099", "dimension": "truthfulness", "graders": ["anchor34", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0099", "dimension": "truthfulness", "graders": ["careful", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0100", "dimension": "overall_quality", "graders": ["anchor34", "sloppy"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0100", "dimension": "overall_quality", "graders": ["careful", "generous"], "scores": [2, 4], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0101", "dimension": "instruction_following", "graders": ["anchor34", "generous"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0101", "dimension": "instruction_following", "graders": ["careful", "generous"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0101", "dimension": "presentation", "graders": ["careful", "generous"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0101", "dimension": "overall_quality", "graders": ["anchor34", "sloppy"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0101", "dimension": "overall_quality", "graders": ["careful", "sloppy"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0101", "dimension": "overall_quality", "graders": ["generous", "sloppy"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0102", "dimension": "presentation", "graders": ["careful", "generous"], "scores": [2, 4], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0102", "dimension": "(gate)", "graders": ["anchor34", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "gate disagreement: truthfulness=2 caps overall at 2"}
+{"item_id": "item-0102", "dimension": "(gate)", "graders": ["careful", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "gate disagreement: truthfulness=2 caps overall at 2"}
+{"item_id": "item-0102", "dimension": "(gate)", "graders": ["generous", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "gate disagreement: truthfulness=2 caps overall at 2"}
+{"item_id": "item-0103", "dimension": "instruction_following", "graders": ["anchor34", "careful"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0103", "dimension": "instruction_following", "graders": ["anchor34", "generous"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0103", "dimension": "instruction_following", "graders": ["careful", "sloppy"], "scores": [5, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0103", "dimension": "instruction_following", "graders": ["generous", "sloppy"], "scores": [5, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0104", "dimension": "truthfulness", "graders": ["anchor34", "generous"], "scores": [2, 4], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0104", "dimension": "truthfulness", "graders": ["careful", "sloppy"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0104", "dimension": "overall_quality", "graders": ["anchor34", "sloppy"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0104", "dimension": "(gate)", "graders": ["anchor34", "careful"], "scores": [2, 4], "gap": 2, "reason": "gate disagreement: truthfulness=2 caps overall at 2"}
+{"item_id": "item-0104", "dimension": "(gate)", "graders": ["anchor34", "generous"], "scores": [2, 4], "gap": 2, "reason": "gate disagreement: truthfulness=2 caps overall at 2"}
+{"item_id": "item-0104", "dimension": "(gate)", "graders": ["anchor34", "sloppy"], "scores": [2, 4], "gap": 2, "reason": "gate disagreement: truthfulness=2 caps overall at 2"}
+{"item_id": "item-0105", "dimension": "presentation", "graders": ["anchor34", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0105", "dimension": "presentation", "graders": ["careful", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0105", "dimension": "overall_quality", "graders": ["careful", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0106", "dimension": "truthfulness", "graders": ["generous", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0106", "dimension": "(gate)", "graders": ["anchor34", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "gate disagreement: truthfulness=2 caps overall at 2"}
+{"item_id": "item-0106", "dimension": "(gate)", "graders": ["careful", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "gate disagreement: truthfulness=2 caps overall at 2"}
+{"item_id": "item-0106", "dimension": "(gate)", "graders": ["generous", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "gate disagreement: truthfulness=2 caps overall at 2"}
+{"item_id": "item-0107", "dimension": "truthfulness", "graders": ["anchor34", "sloppy"], "scores": [5, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0107", "dimension": "truthfulness", "graders": ["careful", "sloppy"], "scores": [5, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0107", "dimension": "truthfulness", "graders": ["generous", "sloppy"], "scores": [5, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0107", "dimension": "overall_quality", "graders": ["anchor34", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0107", "dimension": "overall_quality", "graders": ["careful", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0108", "dimension": "instruction_following", "graders": ["anchor34", "generous"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0110", "dimension": "presentation", "graders": ["anchor34", "sloppy"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0110", "dimension": "presentation", "graders": ["careful", "sloppy"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0110", "dimension": "(gate)", "graders": ["generous", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "gate disagreement: truthfulness=2 caps overall at 2"}
+{"item_id": "item-0111", "dimension": "instruction_following", "graders": ["careful", "sloppy"], "scores": [2, 4], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0111", "dimension": "instruction_following", "graders": ["generous", "sloppy"], "scores": [2, 4], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0111", "dimension": "presentation", "graders": ["anchor34", "sloppy"], "scores": [2, 4], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0111", "dimension": "presentation", "graders": ["generous", "sloppy"], "scores": [2, 4], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0112", "dimension": "(gate)", "graders": ["anchor34", "careful"], "scores": [4, 2], "gap": 2, "reason": "gate disagreement: truthfulness=2 caps overall at 2"}
+{"item_id": "item-0112", "dimension": "(gate)", "graders": ["anchor34", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "gate disagreement: instruction_following=1 caps overall at 2"}
+{"item_id": "item-0112", "dimension": "(gate)", "graders": ["careful", "generous"], "scores": [2, 4], "gap": 2, "reason": "gate disagreement: truthfulness=2 caps overall at 2"}
+{"item_id": "item-0112", "dimension": "(gate)", "graders": ["generous", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "gate disagreement: instruction_following=1 caps overall at 2"}
+{"item_id": "item-0113", "dimension": "overall_quality", "graders": ["anchor34", "generous"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0113", "dimension": "overall_quality", "graders": ["careful", "generous"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0114", "dimension": "instruction_following", "graders": ["anchor34", "generous"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0114", "dimension": "truthfulness", "graders": ["careful", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0114", "dimension": "truthfulness", "graders": ["generous", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0114", "dimension": "(gate)", "graders": ["careful", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "gate disagreement: truthfulness=2 caps overall at 2"}
+{"item_id": "item-0114", "dimension": "(gate)", "graders": ["generous", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "gate disagreement: truthfulness=2 caps overall at 2"}
+{"item_id": "item-0115", "dimension": "instruction_following", "graders": ["careful", "generous"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0115", "dimension": "instruction_following", "graders": ["careful", "sloppy"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0115", "dimension": "(gate)", "graders": ["generous", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "gate disagreement: truthfulness=2 caps overall at 2"}
+{"item_id": "item-0116", "dimension": "instruction_following", "graders": ["anchor34", "generous"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0117", "dimension": "instruction_following", "graders": ["anchor34", "generous"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0117", "dimension": "instruction_following", "graders": ["careful", "generous"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0117", "dimension": "instruction_following", "graders": ["generous", "sloppy"], "scores": [5, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0117", "dimension": "truthfulness", "graders": ["anchor34", "sloppy"], "scores": [5, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0117", "dimension": "truthfulness", "graders": ["careful", "sloppy"], "scores": [5, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0117", "dimension": "truthfulness", "graders": ["generous", "sloppy"], "scores": [5, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0117", "dimension": "presentation", "graders": ["anchor34", "generous"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0117", "dimension": "presentation", "graders": ["careful", "generous"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0117", "dimension": "overall_quality", "graders": ["generous", "sloppy"], "scores": [5, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0118", "dimension": "instruction_following", "graders": ["anchor34", "sloppy"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0118", "dimension": "presentation", "graders": ["anchor34", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0118", "dimension": "presentation", "graders": ["careful", "generous"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0118", "dimension": "(gate)", "graders": ["anchor34", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "gate disagreement: truthfulness=1 caps overall at 2"}
+{"item_id": "item-0118", "dimension": "(gate)", "graders": ["careful", "sloppy"], "scores": [4, 2], "gap": 2, "reason": "gate disagreement: truthfulness=1 caps overall at 2"}
+{"item_id": "item-0119", "dimension": "truthfulness", "graders": ["anchor34", "generous"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0119", "dimension": "truthfulness", "graders": ["careful", "generous"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0119", "dimension": "truthfulness", "graders": ["generous", "sloppy"], "scores": [5, 3], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0119", "dimension": "overall_quality", "graders": ["careful", "generous"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0119", "dimension": "overall_quality", "graders": ["careful", "sloppy"], "scores": [3, 5], "gap": 2, "reason": "2-point gap on a 5-point scale"}
+{"item_id": "item-0035", "dimension": "(gate)", "graders": ["anchor34", "careful"], "scores": [3, 2], "gap": 1, "reason": "gate disagreement: instruction_following=2 caps overall at 2"}
+{"item_id": "item-0036", "dimension": "(gate)", "graders": ["anchor34", "sloppy"], "scores": [2, 3], "gap": 1, "reason": "gate disagreement: truthfulness=1 caps overall at 2"}
+{"item_id": "item-0036", "dimension": "(gate)", "graders": ["careful", "sloppy"], "scores": [2, 3], "gap": 1, "reason": "gate disagreement: truthfulness=1 caps overall at 2"}
+{"item_id": "item-0036", "dimension": "(gate)", "graders": ["generous", "sloppy"], "scores": [2, 3], "gap": 1, "reason": "gate disagreement: truthfulness=2 caps overall at 2"}
+{"item_id": "item-0065", "dimension": "(gate)", "graders": ["anchor34", "generous"], "scores": [2, 3], "gap": 1, "reason": "gate disagreement: instruction_following=2 caps overall at 2"}
+{"item_id": "item-0073", "dimension": "(gate)", "graders": ["anchor34", "sloppy"], "scores": [3, 2], "gap": 1, "reason": "gate disagreement: instruction_following=2 caps overall at 2"}
+{"item_id": "item-0088", "dimension": "(gate)", "graders": ["anchor34", "generous"], "scores": [1, 2], "gap": 1, "reason": "gate disagreement: instruction_following=2 caps overall at 2"}
+{"item_id": "item-0088", "dimension": "(gate)", "graders": ["anchor34", "sloppy"], "scores": [1, 2], "gap": 1, "reason": "gate disagreement: truthfulness=1 caps overall at 2"}
+{"item_id": "item-0088", "dimension": "(gate)", "graders": ["careful", "generous"], "scores": [1, 2], "gap": 1, "reason": "gate disagreement: instruction_following=2 caps overall at 2"}
+{"item_id": "item-0088", "dimension": "(gate)", "graders": ["careful", "sloppy"], "scores": [1, 2], "gap": 1, "reason": "gate disagreement: truthfulness=1 caps overall at 2"}
+{"item_id": "item-0091", "dimension": "(gate)", "graders": ["anchor34", "careful"], "scores": [2, 3], "gap": 1, "reason": "gate disagreement: instruction_following=2 caps overall at 2"}
+{"item_id": "item-0091", "dimension": "(gate)", "graders": ["careful", "generous"], "scores": [3, 2], "gap": 1, "reason": "gate disagreement: instruction_following=2 caps overall at 2"}
+{"item_id": "item-0092", "dimension": "(gate)", "graders": ["anchor34", "careful"], "scores": [3, 2], "gap": 1, "reason": "gate disagreement: truthfulness=2 caps overall at 2"}
+{"item_id": "item-0110", "dimension": "(gate)", "graders": ["anchor34", "sloppy"], "scores": [3, 2], "gap": 1, "reason": "gate disagreement: truthfulness=2 caps overall at 2"}
+{"item_id": "item-0110", "dimension": "(gate)", "graders": ["careful", "sloppy"], "scores": [3, 2], "gap": 1, "reason": "gate disagreement: truthfulness=2 caps overall at 2"}
+{"item_id": "item-0114", "dimension": "(gate)", "graders": ["anchor34", "sloppy"], "scores": [3, 2], "gap": 1, "reason": "gate disagreement: truthfulness=2 caps overall at 2"}
+{"item_id": "item-0115", "dimension": "(gate)", "graders": ["anchor34", "sloppy"], "scores": [3, 2], "gap": 1, "reason": "gate disagreement: truthfulness=2 caps overall at 2"}
+{"item_id": "item-0115", "dimension": "(gate)", "graders": ["careful", "sloppy"], "scores": [3, 2], "gap": 1, "reason": "gate disagreement: truthfulness=2 caps overall at 2"}
+{"item_id": "item-0001", "dimension": "(gate)", "graders": ["careful", "sloppy"], "scores": [2, 2], "gap": 0, "reason": "gate disagreement: instruction_following=2 caps overall at 2"}
+{"item_id": "item-0001", "dimension": "(gate)", "graders": ["generous", "sloppy"], "scores": [2, 2], "gap": 0, "reason": "gate disagreement: instruction_following=1 caps overall at 2"}
+{"item_id": "item-0015", "dimension": "(gate)", "graders": ["careful", "sloppy"], "scores": [2, 2], "gap": 0, "reason": "gate disagreement: truthfulness=2 caps overall at 2"}
+{"item_id": "item-0020", "dimension": "(gate)", "graders": ["anchor34", "sloppy"], "scores": [2, 2], "gap": 0, "reason": "gate disagreement: instruction_following=1 caps overall at 2"}
+{"item_id": "item-0020", "dimension": "(gate)", "graders": ["careful", "sloppy"], "scores": [2, 2], "gap": 0, "reason": "gate disagreement: instruction_following=1 caps overall at 2"}
+{"item_id": "item-0020", "dimension": "(gate)", "graders": ["generous", "sloppy"], "scores": [2, 2], "gap": 0, "reason": "gate disagreement: instruction_following=2 caps overall at 2"}
+{"item_id": "item-0023", "dimension": "(gate)", "graders": ["anchor34", "careful"], "scores": [2, 2], "gap": 0, "reason": "gate disagreement: truthfulness=1 caps overall at 2"}
+{"item_id": "item-0023", "dimension": "(gate)", "graders": ["anchor34", "sloppy"], "scores": [2, 2], "gap": 0, "reason": "gate disagreement: truthfulness=1 caps overall at 2"}
+{"item_id": "item-0023", "dimension": "(gate)", "graders": ["careful", "generous"], "scores": [2, 2], "gap": 0, "reason": "gate disagreement: truthfulness=1 caps overall at 2"}
+{"item_id": "item-0023", "dimension": "(gate)", "graders": ["generous", "sloppy"], "scores": [2, 2], "gap": 0, "reason": "gate disagreement: truthfulness=1 caps overall at 2"}
+{"item_id": "item-0029", "dimension": "(gate)", "graders": ["anchor34", "generous"], "scores": [2, 2], "gap": 0, "reason": "gate disagreement: truthfulness=1 caps overall at 2"}
+{"item_id": "item-0029", "dimension": "(gate)", "graders": ["careful", "generous"], "scores": [2, 2], "gap": 0, "reason": "gate disagreement: truthfulness=1 caps overall at 2"}
+{"item_id": "item-0029", "dimension": "(gate)", "graders": ["generous", "sloppy"], "scores": [2, 2], "gap": 0, "reason": "gate disagreement: truthfulness=1 caps overall at 2"}
+{"item_id": "item-0035", "dimension": "(gate)", "graders": ["careful", "sloppy"], "scores": [2, 2], "gap": 0, "reason": "gate disagreement: instruction_following=2 caps overall at 2"}
+{"item_id": "item-0037", "dimension": "(gate)", "graders": ["anchor34", "sloppy"], "scores": [2, 2], "gap": 0, "reason": "gate disagreement: truthfulness=2 caps overall at 2"}
+{"item_id": "item-0037", "dimension": "(gate)", "graders": ["careful", "sloppy"], "scores": [2, 2], "gap": 0, "reason": "gate disagreement: truthfulness=1 caps overall at 2"}
+{"item_id": "item-0037", "dimension": "(gate)", "graders": ["generous", "sloppy"], "scores": [2, 2], "gap": 0, "reason": "gate disagreement: truthfulness=2 caps overall at 2"}
+{"item_id": "item-0041", "dimension": "(gate)", "graders": ["anchor34", "sloppy"], "scores": [2, 2], "gap": 0, "reason": "gate disagreement: instruction_following=2 caps overall at 2"}
+{"item_id": "item-0041", "dimension": "(gate)", "graders": ["careful", "sloppy"], "scores": [2, 2], "gap": 0, "reason": "gate disagreement: instruction_following=2 caps overall at 2"}
+{"item_id": "item-0041", "dimension": "(gate)", "graders": ["generous", "sloppy"], "scores": [2, 2], "gap": 0, "reason": "gate disagreement: instruction_following=2 caps overall at 2"}
+{"item_id": "item-0051", "dimension": "(gate)", "graders": ["anchor34", "careful"], "scores": [2, 2], "gap": 0, "reason": "gate disagreement: truthfulness=1 caps overall at 2"}
+{"item_id": "item-0051", "dimension": "(gate)", "graders": ["anchor34", "sloppy"], "scores": [2, 2], "gap": 0, "reason": "gate disagreement: truthfulness=1 caps overall at 2"}
+{"item_id": "item-0051", "dimension": "(gate)", "graders": ["careful", "generous"], "scores": [2, 2], "gap": 0, "reason": "gate disagreement: truthfulness=2 caps overall at 2"}
+{"item_id": "item-0051", "dimension": "(gate)", "graders": ["generous", "sloppy"], "scores": [2, 2], "gap": 0, "reason": "gate disagreement: truthfulness=2 caps overall at 2"}
+{"item_id": "item-0053", "dimension": "(gate)", "graders": ["anchor34", "careful"], "scores": [2, 2], "gap": 0, "reason": "gate disagreement: instruction_following=1 caps overall at 2"}
+{"item_id": "item-0053", "dimension": "(gate)", "graders": ["anchor34", "generous"], "scores": [2, 2], "gap": 0, "reason": "gate disagreement: instruction_following=1 caps overall at 2"}
+{"item_id": "item-0053", "dimension": "(gate)", "graders": ["careful", "sloppy"], "scores": [2, 2], "gap": 0, "reason": "gate disagreement: instruction_following=1 caps overall at 2"}
+{"item_id": "item-0053", "dimension": "(gate)", "graders": ["generous", "sloppy"], "scores": [2, 2], "gap": 0, "reason": "gate disagreement: instruction_following=1 caps overall at 2"}
+{"item_id": "item-0055", "dimension": "(gate)", "graders": ["careful", "sloppy"], "scores": [2, 2], "gap": 0, "reason": "gate disagreement: truthfulness=2 caps overall at 2"}
+{"item_id": "item-0065", "dimension": "(gate)", "graders": ["anchor34", "careful"], "scores": [2, 2], "gap": 0, "reason": "gate disagreement: instruction_following=2 caps overall at 2"}
+{"item_id": "item-0069", "dimension": "(gate)", "graders": ["anchor34", "sloppy"], "scores": [2, 2], "gap": 0, "reason": "gate disagreement: instruction_following=2 caps overall at 2"}
+{"item_id": "item-0069", "dimension": "(gate)", "graders": ["careful", "sloppy"], "scores": [2, 2], "gap": 0, "reason": "gate disagreement: instruction_following=2 caps overall at 2"}
+{"item_id": "item-0070", "dimension": "(gate)", "graders": ["anchor34", "careful"], "scores": [2, 2], "gap": 0, "reason": "gate disagreement: truthfulness=1 caps overall at 2"}
+{"item_id": "item-0070", "dimension": "(gate)", "graders": ["anchor34", "generous"], "scores": [2, 2], "gap": 0, "reason": "gate disagreement: truthfulness=1 caps overall at 2"}
+{"item_id": "item-0070", "dimension": "(gate)", "graders": ["anchor34", "sloppy"], "scores": [2, 2], "gap": 0, "reason": "gate disagreement: truthfulness=2 caps overall at 2"}
+{"item_id": "item-0089", "dimension": "(gate)", "graders": ["anchor34", "careful"], "scores": [2, 2], "gap": 0, "reason": "gate disagreement: instruction_following=2 caps overall at 2"}
+{"item_id": "item-0089", "dimension": "(gate)", "graders": ["anchor34", "sloppy"], "scores": [2, 2], "gap": 0, "reason": "gate disagreement: instruction_following=2 caps overall at 2"}
+{"item_id": "item-0090", "dimension": "(gate)", "graders": ["anchor34", "generous"], "scores": [2, 2], "gap": 0, "reason": "gate disagreement: truthfulness=2 caps overall at 2"}
+{"item_id": "item-0090", "dimension": "(gate)", "graders": ["anchor34", "sloppy"], "scores": [2, 2], "gap": 0, "reason": "gate disagreement: instruction_following=2 caps overall at 2"}
+{"item_id": "item-0090", "dimension": "(gate)", "graders": ["careful", "generous"], "scores": [2, 2], "gap": 0, "reason": "gate disagreement: truthfulness=2 caps overall at 2"}
+{"item_id": "item-0090", "dimension": "(gate)", "graders": ["careful", "sloppy"], "scores": [2, 2], "gap": 0, "reason": "gate disagreement: instruction_following=2 caps overall at 2"}
+{"item_id": "item-0091", "dimension": "(gate)", "graders": ["anchor34", "sloppy"], "scores": [2, 2], "gap": 0, "reason": "gate disagreement: instruction_following=2 caps overall at 2"}
+{"item_id": "item-0091", "dimension": "(gate)", "graders": ["generous", "sloppy"], "scores": [2, 2], "gap": 0, "reason": "gate disagreement: instruction_following=2 caps overall at 2"}
+{"item_id": "item-0096", "dimension": "(gate)", "graders": ["anchor34", "sloppy"], "scores": [2, 2], "gap": 0, "reason": "gate disagreement: truthfulness=1 caps overall at 2"}
+{"item_id": "item-0096", "dimension": "(gate)", "graders": ["careful", "sloppy"], "scores": [2, 2], "gap": 0, "reason": "gate disagreement: truthfulness=1 caps overall at 2"}
+{"item_id": "item-0096", "dimension": "(gate)", "graders": ["generous", "sloppy"], "scores": [2, 2], "gap": 0, "reason": "gate disagreement: truthfulness=1 caps overall at 2"}
+{"item_id": "item-0098", "dimension": "(gate)", "graders": ["anchor34", "careful"], "scores": [2, 2], "gap": 0, "reason": "gate disagreement: instruction_following=2 caps overall at 2"}
+{"item_id": "item-0098", "dimension": "(gate)", "graders": ["careful", "generous"], "scores": [2, 2], "gap": 0, "reason": "gate disagreement: truthfulness=2 caps overall at 2"}
+{"item_id": "item-0100", "dimension": "(gate)", "graders": ["anchor34", "sloppy"], "scores": [2, 2], "gap": 0, "reason": "gate disagreement: truthfulness=2 caps overall at 2"}
+{"item_id": "item-0100", "dimension": "(gate)", "graders": ["careful", "sloppy"], "scores": [2, 2], "gap": 0, "reason": "gate disagreement: truthfulness=2 caps overall at 2"}
+{"item_id": "item-0100", "dimension": "(gate)", "graders": ["generous", "sloppy"], "scores": [2, 2], "gap": 0, "reason": "gate disagreement: truthfulness=2 caps overall at 2"}
+{"item_id": "item-0111", "dimension": "(gate)", "graders": ["anchor34", "sloppy"], "scores": [2, 2], "gap": 0, "reason": "gate disagreement: truthfulness=2 caps overall at 2"}
+{"item_id": "item-0111", "dimension": "(gate)", "graders": ["careful", "sloppy"], "scores": [2, 2], "gap": 0, "reason": "gate disagreement: truthfulness=2 caps overall at 2"}
+{"item_id": "item-0111", "dimension": "(gate)", "graders": ["generous", "sloppy"], "scores": [2, 2], "gap": 0, "reason": "gate disagreement: truthfulness=2 caps overall at 2"}
+{"item_id": "item-0116", "dimension": "(gate)", "graders": ["anchor34", "careful"], "scores": [2, 2], "gap": 0, "reason": "gate disagreement: truthfulness=1 caps overall at 2"}
+{"item_id": "item-0116", "dimension": "(gate)", "graders": ["anchor34", "generous"], "scores": [2, 2], "gap": 0, "reason": "gate disagreement: truthfulness=2 caps overall at 2"}
+{"item_id": "item-0116", "dimension": "(gate)", "graders": ["anchor34", "sloppy"], "scores": [2, 2], "gap": 0, "reason": "gate disagreement: truthfulness=1 caps overall at 2"}
+{"item_id": "item-0119", "dimension": "(gate)", "graders": ["anchor34", "sloppy"], "scores": [2, 2], "gap": 0, "reason": "gate disagreement: instruction_following=2 caps overall at 2"}
+{"item_id": "item-0119", "dimension": "(gate)", "graders": ["careful", "sloppy"], "scores": [2, 2], "gap": 0, "reason": "gate disagreement: instruction_following=2 caps overall at 2"}
+{"item_id": "item-0119", "dimension": "(gate)", "graders": ["generous", "sloppy"], "scores": [2, 2], "gap": 0, "reason": "gate disagreement: instruction_following=2 caps overall at 2"}

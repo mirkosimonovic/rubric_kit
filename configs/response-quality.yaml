@@ -1,0 +1,65 @@
+# A response-comparison rubric of the kind used to rate model answers
+# for training data. Four dimensions, a 1-5 scale, real anchor text on
+# every point, and two gates: a response that ignores the instruction
+# or states something false can't be rated highly on the strength of
+# its prose.
+
+name: response-quality
+version: "1.2"
+overall_scale: [1, 2, 3, 4, 5]
+adjudicate_when_gap_at_least: 2
+
+dimensions:
+  - key: instruction_following
+    question: Does the response do what the prompt actually asked?
+    scale: [1, 2, 3, 4, 5]
+    weight: 1.5
+    anchors:
+      1: Ignores the instruction or answers a different question.
+      2: Addresses part of the request and drops a stated requirement.
+      3: Covers the request but misses an explicit constraint like length or format.
+      4: Follows the instruction including stated constraints.
+      5: Follows the instruction and handles an implied constraint the prompt did not spell out.
+
+  - key: truthfulness
+    question: Is everything asserted actually correct?
+    scale: [1, 2, 3, 4, 5]
+    weight: 1.5
+    anchors:
+      1: Contains a confident claim that is plainly false.
+      2: Contains a factual error that changes the answer.
+      3: Mostly correct with a minor inaccuracy that does not change the conclusion.
+      4: Correct throughout.
+      5: Correct throughout and flags its own uncertainty where the question is genuinely open.
+
+  - key: presentation
+    question: Is it clear, well organized, and the right length?
+    scale: [1, 2, 3, 4, 5]
+    weight: 1.0
+    anchors:
+      1: Hard to follow or badly malformed.
+      2: Understandable but disorganized or padded.
+      3: Clear enough, some filler or awkward structure.
+      4: Clear, organized, appropriately concise.
+      5: Clear and structured so the reader finds the answer immediately.
+
+  - key: overall_quality
+    question: All things considered, how good is this response as training data?
+    scale: [1, 2, 3, 4, 5]
+    weight: 0.0            # reported, not averaged: this is the gate target
+    anchors:
+      1: Would teach a model something wrong.
+      2: Weak, not worth training on.
+      3: Usable.
+      4: Good.
+      5: The response you would want the model to give every time.
+
+gates:
+  - dimension: instruction_following
+    at_or_below: 2
+    caps_overall_at: 2
+    note: A fluent answer to the wrong question is still the wrong answer.
+  - dimension: truthfulness
+    at_or_below: 2
+    caps_overall_at: 2
+    note: False content cannot be rescued by presentation.

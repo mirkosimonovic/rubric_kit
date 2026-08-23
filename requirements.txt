@@ -1,0 +1,9 @@
+pydantic==2.13.4
+pyyaml==6.0.3
+pytest==9.1.1
+ruff==0.16.4
+
+# test-only: the reference implementation my Krippendorff alpha is
+# fuzzed against. Not imported by the library itself.
+krippendorff==0.8.1
+numpy==2.4.4
