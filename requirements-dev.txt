@@ -1,0 +1,8 @@
+-r requirements.txt
+pytest==9.1.1
+ruff==0.16.4
+
+# the reference implementation my Krippendorff alpha is fuzzed against,
+# plus the numpy it needs. Nothing in rubric_kit/ imports either one.
+krippendorff==0.8.1
+numpy==2.4.4

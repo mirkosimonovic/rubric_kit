@@ -15,7 +15,7 @@ on.
 ## Quickstart
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt        # -dev instead, to run the tests
 python scripts/make_labels.py                         # synthetic graders
 python -m rubric_kit.cli validate --rubric configs/response-quality.yaml \
     --labels examples/labels.jsonl
@@ -161,9 +161,3 @@ scripts/make_labels.py          simulated graders with planted defects
 examples/report/                a committed run
 tests/                          31 tests, including the differential fuzz
 ```
-
-Pairs with my [agent-eval-harness](https://github.com/mirkosimonovic/agent-eval-harness)
-and [rlhf-data-pipeline](https://github.com/mirkosimonovic/rlhf-data-pipeline):
-the harness produces model outputs to grade, this decides whether the
-grading is trustworthy, and the pipeline consumes the labels that
-survive.

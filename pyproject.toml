@@ -1,0 +1,13 @@
+[tool.ruff]
+line-length = 100
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B"]
+
+# pythonpath puts the repo root on sys.path so `pytest` works the same
+# as `python -m pytest`. Without it the two differ, and CI runs the one
+# that breaks.
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
